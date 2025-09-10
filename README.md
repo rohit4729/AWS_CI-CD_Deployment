@@ -57,8 +57,9 @@ It follows a **staging → approval → production** workflow to ensure safe dep
 ---
 
 ## 📂screenshots:
-<img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/c4098715-b857-47ff-9851-7342e3593512" />
-<img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/9566ffcd-f309-4718-8b76-e0e3b53c8423" />
+
+<img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/b3ad697e-65f0-4a6f-8f79-06d2f26ded9e" />
+![hi](https://github.com/rohit4729/AWS_CI-CD_Deployment/blob/master/image/Screenshot%20(10).png)
 <img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/a429995b-ed10-48d9-ba61-274cbce0e9cb" />
 <img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/112720c2-0ae7-4a11-a738-6305a218516b" />
 <img width="1920" height="1080" alt="project2-1" src="https://github.com/user-attachments/assets/aec5eede-07ea-4f39-8cb7-a0d9d29be96a" />
