@@ -59,16 +59,16 @@ It follows a **staging → approval → production** workflow to ensure safe dep
 ## 📂screenshots:
 
 <img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/b3ad697e-65f0-4a6f-8f79-06d2f26ded9e" />
-![hi](https://github.com/rohit4729/AWS_CI-CD_Deployment/blob/master/image/Screenshot%20(10).png)
-<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/a429995b-ed10-48d9-ba61-274cbce0e9cb" />
-<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/112720c2-0ae7-4a11-a738-6305a218516b" />
-<img width="1920" height="1080" alt="project2-1" src="https://github.com/user-attachments/assets/aec5eede-07ea-4f39-8cb7-a0d9d29be96a" />
-<img width="1920" height="1080" alt="project2-2" src="https://github.com/user-attachments/assets/9288620c-6edc-4c82-8d89-a0c1523ecf3d" />
-<img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/cc7391dc-8eeb-4851-b40e-671935f69a90" />
-<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/19001734-4e0b-44ad-a9a5-4a8ba15fec47" />
-<img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/786e95d5-8368-42b4-8ca0-98d082346549" />
-<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/04b31e28-be15-481a-8997-eb50d13b49ce" />
-<img width="1920" height="1080" alt="project2-3" src="https://github.com/user-attachments/assets/23854c36-2930-4129-9a98-9856ea599367" />
+<img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/feaf0636-4205-4ff0-9d34-a370f1f6adaa" />
+<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/59761b16-feae-431e-8085-3d34f63f09f5" />
+<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/df24c589-f467-4521-83f0-7aadb3e8a369" />
+<img width="1920" height="1080" alt="project2-1" src="https://github.com/user-attachments/assets/b12a2d6a-aecd-487d-8233-8261e58a8051" />
+<img width="1920" height="1080" alt="project2-2" src="https://github.com/user-attachments/assets/c1685340-0f9b-4658-ba96-d14990f1e71b" />
+<img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/dc767924-8b48-4eab-9f96-089ff91a7b49" />
+<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/ec42a726-f605-4299-abd9-0cf2e126d042" />
+<img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/8701e0f6-a174-4bba-8c04-9485b82dbec1" />
+<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/885c3912-7576-424e-af2d-1ba3b56b95aa" />
+<img width="1920" height="1080" alt="project2-3" src="https://github.com/user-attachments/assets/51912e13-c85b-4b2e-aa50-12ecfe51e413" />
 
 
 
